@@ -8,6 +8,12 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    font-family: 'Roboto', 'Raleway', sans-serif;
+    color: #212121;
+    letter-spacing: 0.03em;
+}
+
 p,
 h1,
 h2,
@@ -317,7 +323,7 @@ address {
     border: 1px solid var(--light-gray-color);
     background-color: var(--white-color);
     border-top: none;
-    padding: 20px 24px;
+    padding: 20px 23px;
 }
 
 .project-link {
